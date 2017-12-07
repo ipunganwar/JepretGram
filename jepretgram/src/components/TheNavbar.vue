@@ -12,6 +12,9 @@
               Upload
             </button>
         </li>
+        <li class="nav-item">
+          <button type="button" class="btn btn-warning"><router-link to="/login">Login</router-link></button>
+        </li>
       </ul>
     </div>
   </nav>
